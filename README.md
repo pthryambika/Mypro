@@ -1,13 +1,26 @@
 # Mypro
-You recently got hired as a developer in a micro-finance startup with a mission to empower and provide opportunities to low income individuals. The core team currently uses Subversion (SVN) for managing code. They want to slowly move their code to Git.
 # Simple Interest Calculator
 
 A simple tool to calculate simple interest.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+This project is a simple interest calculator that allows users to compute the interest earned on a principal amount, given an interest rate and time period. It is intended for educational and informational purposes.
+
 ## Usage
 
-[Include usage instructions here]
+To calculate simple interest using this tool, follow these steps:
 
-## License
+1. [Include detailed instructions here on how to use your calculator. You can also provide code examples if applicable.]
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+INSTALLATION:
+git clone https://github.com/yourusername/simple-interest-calculator.git
+cd simple-interest-calculator
